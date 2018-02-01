@@ -7,4 +7,5 @@
 ```
 python 2.7
 django 1.9.8
+mysql 5.7
 ```
